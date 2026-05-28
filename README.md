@@ -5,7 +5,7 @@ This is a technical challenge for candidates for the UI Developer role at VisitS
 -	VisitScotland component library Github repo: [[visitscotland/vs-component-library](https://github.com/visitscotland/vs-component-library)
 -	VisitScotland component library npm package name: @visitscotland/component-library
 -	VisitScotland component library docs: [https://visitscotland.github.io/vs-component-library/](https://visitscotland.github.io/vs-component-library/)
--	Pinea store documentation: Pinia | The intuitive store for Vue.js
+-	Pinea store documentation: [https://pinia.vuejs.org/](https://pinia.vuejs.org/)
 -	Whilst we acknowledge that the use of AI coding agents is commonplace in all modern development teams, we encourage applicants to create as much code themselves as possible. This will be beneficial in presenting your solution answering follow up questions during the interview.  
     
 <br>
