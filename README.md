@@ -1,6 +1,11 @@
 # VisitScotland guidance
 This is a technical challenge for candidates for the UI Developer role at VisitScotland. Please fork or clone this template to use as a starter project for your work as some shortcuts and tools have already been set up to assist with the challenge. See below for instructions on setting up and running the Nuxt element of the project.
 
+## The Brief
+Using Vue 3 and VisitScotland’s component library, create a grid or carousel of cards showing different cities and towns in Scotland. Each card should have the same layout and information on it, as well as a button or link to ‘Add to favourites’.  
+Below this section, display users’ favourites when they click on any item. There should also be an option to remove any of these items from the favourites section. It is anticipated that this will only persist until the page is refreshed or the window/tab is closed.
+
+
 ## Useful links and advice
 -	VisitScotland component library Github repo: [[visitscotland/vs-component-library](https://github.com/visitscotland/vs-component-library)
 -	VisitScotland component library npm package name: @visitscotland/component-library
