@@ -17,7 +17,7 @@
 
 <template>
   <div>
-    <VsHeading headingStyle="h1">UI Developer technical challenge</VsHeading>
+    <VsHeading headingStyle="heading-l">UI Developer technical challenge</VsHeading>
   </div>
 </template>
 
