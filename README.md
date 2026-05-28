@@ -1,5 +1,5 @@
 # VisitScotland guidance
-This is a technical challenge for candidates for the UI Developer role at VisitScotland. Please use this template as a starter project for your work as some shortcuts and tools have already been set up to assist with the challenge. See below for instructions on setting up and running the Nuxt element of the project.
+This is a technical challenge for candidates for the UI Developer role at VisitScotland. Please fork or clone this template to use as a starter project for your work as some shortcuts and tools have already been set up to assist with the challenge. See below for instructions on setting up and running the Nuxt element of the project.
 
 ## Useful links and advice
 -	VisitScotland component library Github repo: [[visitscotland/vs-component-library](https://github.com/visitscotland/vs-component-library)
