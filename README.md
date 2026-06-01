@@ -1,5 +1,5 @@
 # VisitScotland guidance
-This is a technical challenge for candidates for the UI Developer role at VisitScotland. Please fork or clone this template to use as a starter project for your work as some shortcuts and tools have already been set up to assist with the challenge. See below for instructions on setting up and running the Nuxt element of the project.<br><br>
+This is a technical challenge for candidates for the UI Developer role at VisitScotland. Please fork or clone this template to use as a starter project for your work as some shortcuts and tools have already been set up to assist with the challenge. See below for instructions on setting up and running the Nuxt element of the project.<br>
 
 Please spend a maximum of 3 hours on this challenge and be prepared to share and discuss your solution in your interview. Your code should be available on a public Github repository for review after the interview.
 
