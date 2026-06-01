@@ -5,14 +5,16 @@ Please spend a maximum of 3 hours on this challenge and be prepared to share and
 
 ## The Brief
 Using Vue 3 and VisitScotland’s component library, create a grid or carousel of cards showing different cities and towns in Scotland. Each card should have the same layout and information on it, as well as a button or link to ‘Add to favourites’.  <br><br>
-Below this section, display users’ favourites when they click on any item. There should also be an option to remove any of these items from the favourites section. It is anticipated that this will only persist until the page is refreshed or the window/tab is closed.
-
+Below this section, display users’ favourites when they click on any item. There should also be an option to remove any of these items from the favourites section. It is anticipated that this will only persist until the page is refreshed or the window/tab is closed.<br><br>
+You may use hard-coded mock data, no API integration is required. 
+Please consider accessibility, responsiveness, and semantic HTML in your solution.
 
 ## Useful links and advice
--	VisitScotland component library Github repo: [[visitscotland/vs-component-library](https://github.com/visitscotland/vs-component-library)
+-	VisitScotland component library Github repo: [visitscotland/vs-component-library](https://github.com/visitscotland/vs-component-library)
 -	VisitScotland component library npm package name: @visitscotland/component-library
--	VisitScotland component library docs: [https://visitscotland.github.io/vs-component-library/](https://visitscotland.github.io/vs-component-library/)
+-	VisitScotland component library Storybook docs: [https://visitscotland.github.io/vs-component-library/?path=/docs/introduction--docs](https://visitscotland.github.io/vs-component-library/?path=/docs/introduction--docs)
 -	Pinea store documentation: [https://pinia.vuejs.org/](https://pinia.vuejs.org/)
+-	Our design system includes additional internal guidance covering content, accessibility, and usage recommendations. This documentation is not currently publicly available, so for the purposes of this exercise please use the components based on the information available in Storybook.
 -	Whilst we acknowledge that the use of AI coding agents is commonplace in all modern development teams, we encourage applicants to create as much code themselves as possible. This will be beneficial in presenting your solution answering follow up questions during the interview.  
     
 <br>
