@@ -4,8 +4,8 @@ This is a technical challenge for candidates for the UI Developer role at VisitS
 Please spend a maximum of 3 hours on this challenge and be prepared to share and discuss your solution in your interview. Your code should be available on a public Github repository for review after the interview.
 
 ## The Brief
-Using Vue 3 and VisitScotland’s component library, create a grid or carousel of cards showing different cities and towns in Scotland. Each card should have the same layout and information on it, as well as a button or link to ‘Add to favourites’.  <br><br>
-Below this section, display users’ favourites when they click on any item. There should also be an option to remove any of these items from the favourites section. It is anticipated that this will only persist until the page is refreshed or the window/tab is closed.<br><br>
+Using Vue 3 and VisitScotland’s component library, create a grid or carousel of cards showing different cities and towns in Scotland. Each card should have the same layout and information on it and include an option to add the item to a favourites list. <br><br>
+Below this section, display users’ favourited items when they click on any item. There should also be an option to remove any of these items from the favourites section. It is anticipated that this will only persist until the page is refreshed or the window/tab is closed.<br><br>
 You may use hard-coded mock data, no API integration is required. 
 Please consider accessibility, responsiveness, and semantic HTML in your solution.
 
