@@ -4,8 +4,9 @@
   import App from './App.vue'
   import {
     VsHeading,
-    VsContentSwiper,
-    VsContentSwiperSlide,
+    VsGrid,
+    VsRow,
+    VsCol,
     VsCard,
     VsImg,
   } from '@visitscotland/component-library/components';
