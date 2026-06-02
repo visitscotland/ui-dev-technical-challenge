@@ -13,7 +13,7 @@ Please consider accessibility, responsiveness, and semantic HTML in your solutio
 -	VisitScotland component library Github repo: [visitscotland/vs-component-library](https://github.com/visitscotland/vs-component-library)
 -	VisitScotland component library npm package name: @visitscotland/component-library
 -	VisitScotland component library Storybook docs: [https://visitscotland.github.io/vs-component-library/?path=/docs/introduction--docs](https://visitscotland.github.io/vs-component-library/?path=/docs/introduction--docs)
--	VisitScotland Storybook grid component docs: [https://visitscotland.github.io/vs-component-library/?path=/docs/components-layout-content-structure-grid--docs](https://visitscotland.github.io/vs-component-library/?path=/docs/introduction--docs)
+-	VisitScotland Storybook Grid component docs: [https://visitscotland.github.io/vs-component-library/?path=/docs/components-layout-content-structure-grid--docs](https://visitscotland.github.io/vs-component-library/?path=/docs/introduction--docs)
 -	Pinea store documentation: [https://pinia.vuejs.org/](https://pinia.vuejs.org/)
 -	Our design system includes additional internal guidance covering content, accessibility, and usage recommendations. This documentation is not currently publicly available, so for the purposes of this exercise please use the components based on the information available in Storybook.
 -	Whilst we acknowledge that the use of AI coding agents is commonplace in all modern development teams, we encourage applicants to create as much code themselves as possible. This will be beneficial in presenting your solution and answering follow up questions during the interview.  
