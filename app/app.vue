@@ -4,7 +4,7 @@
   import App from './App.vue'
   import {
     VsHeading,
-    VsGrid,
+    VsContainer,
     VsRow,
     VsCol,
     VsCard,
