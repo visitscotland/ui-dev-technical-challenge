@@ -9,6 +9,14 @@ Below this section, display users’ favourited items when they click on any ite
 You may use hard-coded mock data, no API integration is required. 
 Please consider accessibility, responsiveness, and semantic HTML in your solution.
 
+Some of the things we are interested in are:
+-	Component composition
+-	Vue 3 fundamentals
+-	Code organisation
+-	Accessibility considerations
+-	Working with an existing component library
+
+
 ## Useful links and advice
 -	VisitScotland component library Github repo: [visitscotland/vs-component-library](https://github.com/visitscotland/vs-component-library)
 -	VisitScotland component library npm package name: @visitscotland/component-library
